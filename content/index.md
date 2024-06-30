@@ -5,7 +5,7 @@ title: "प्रत्नवाक्"
 
 उज्ज्वलो नामास्मि।
 
-**Introducción**
+**Introducción.**
 
 Soy Ujjwal Rajput de la India. Soy bueno en sánscrito, matemáticas y programación informática.
 
