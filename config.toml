@@ -1,0 +1,24 @@
+baseURL = "https://pratnavaak.github.io"
+theme = "hugo-pratna"
+
+defaultContentLanguage = "sa"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.sa]
+    languageCode = 'sa'
+    languageDirection = 'ltr'
+    languageName = "संस्कृतम्"
+    weight = 1
+  [languages.es]
+    languageCode = 'es'
+    languageDirection = 'ltr'
+    languageName = "Español"
+    weight = 2
+  [languages.en]
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = "English"
+    weight = 3
+ 
+
